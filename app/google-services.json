@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010775748600",
+    "firebase_url": "https://jammu-and-kashmir-2eec8.firebaseio.com",
+    "project_id": "jammu-and-kashmir-2eec8",
+    "storage_bucket": "jammu-and-kashmir-2eec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010775748600:android:3fa910fb56792896e6700d",
+        "android_client_info": {
+          "package_name": "com.covid19.jammukashmir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010775748600-nl00k5uskssg79ecs3n0dokbjbkikeom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.jammukashmir",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "1010775748600-6g48dakp2clg7r26a3t9300atkfefhm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW99DH-dc2Rj5Hs2Zs3I0gj-Pi1U7dRDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010775748600-6g48dakp2clg7r26a3t9300atkfefhm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
