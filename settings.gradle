@@ -1,2 +1,2 @@
-rootProject.name='Jammu & Kashmir'
 include ':app'
+rootProject.name = "Jammu and Kashmir"
